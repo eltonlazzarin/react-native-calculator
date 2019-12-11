@@ -1,0 +1,4 @@
+#Mon Nov 04 19:31:26 BRST 2019
+base.0=/home/eltonlazzarin/Desktop/Calculator/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
