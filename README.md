@@ -18,7 +18,7 @@
 
   ### :rocket: Frontend Technologies (MobileApp)
   <p align="center">
-   <img alt="Calculator Pic" src="https://github.com/eltonlazzarin/react-native-calculator/blob/master/screenshot/calculatorApp.jpeg hight="380" width="350"">  
+   <img alt="Calculator Pic" src="https://github.com/eltonlazzarin/react-native-calculator/blob/master/screenshot/calculatorApp.jpeg" hight="380" width="350">  
   </p>
    
   This project was developed with the following technologies:
