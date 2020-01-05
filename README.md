@@ -18,11 +18,11 @@
 
   ### :rocket: Frontend Technologies (MobileApp)
   <p align="center">
-   <img alt="Calculator Pic" src="https://github.com/eltonlazzarin/react-native-calculator/blob/master/screenshot/calculatorApp.jpeg">  
+   <img alt="Calculator Pic" src="https://github.com/eltonlazzarin/react-native-calculator/blob/master/screenshot/calculatorApp.jpeg hight="380" width="350"">  
    
   This project was developed with the following technologies:
 
-  - [ReactJS](https://reactjs.org/)
+  - [React Native](https://facebook.github.io/react-native/)
   - [@babel/core](https://github.com/babel/babel/tree/master/packages/babel-core)
   - [eslint-config-airbnb](https://github.com/airbnb/javascript)
   - [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
@@ -40,8 +40,13 @@
   # Install dependencies
   $ yarn
 
-  # Run the app
-  $ yarn start
+  # Run the app (iOS)
+  $ react-native run-ios --simulator="iPhone XS Max"
+
+  or
+
+  # Run the app (Android)
+  $ react-native run-android
   ```
 
 
