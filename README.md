@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="" src="" />
+    <img alt="Calculator Icon" src="https://github.com/eltonlazzarin/react-native-calculator/blob/master/screenshot/calculatorIcon.png" />
     <br>
     React Native Calculator
 </h1>
