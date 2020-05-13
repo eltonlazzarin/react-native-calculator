@@ -16,7 +16,7 @@
 
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/react-native-calculator">   
 
-  ### :rocket: Frontend Technologies (MobileApp)
+  ## :rocket: Frontend Technologies (MobileApp)
   <p align="center">
    <img alt="Calculator Pic" src="https://github.com/eltonlazzarin/react-native-calculator/blob/master/screenshot/calculatorApp.jpeg" hight="380" width="350">  
   </p>
@@ -51,7 +51,7 @@
   ```
 
 
-  ### :memo: License
+  ## :memo: License
 
   This project is under the MIT license.
 
